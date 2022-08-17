@@ -113,4 +113,3 @@ C:\Users\circarva\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\
 C:\Users\circarva\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.pdb
 C:\Users\circarva\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.genruntimeconfig.cache
 C:\Users\circarva\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\WebApplication2.dll
-C:\Users\circarva\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
